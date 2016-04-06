@@ -11,7 +11,9 @@ Apllo is a simple blog theme template for farbox.
 cd {BLOG_ROOT_DIR}
 git clone git@github.com:iqiancheng/farbox-apllo.git template
 ```
-# Demo
+# Download
+[Download](https://github.com/iqiancheng/farbox-apllo/releases)
 
->  [http://qiancheng.me](http://qiancheng.me)
+# Demo
+[http://www.qiancheng.me](http://qiancheng.me)
 
