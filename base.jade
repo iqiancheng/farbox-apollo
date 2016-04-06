@@ -52,8 +52,10 @@ html
 			a(href='/categories', real="nofollow" , target="_blank")= "Categories"
 			//-/
 			//-a(href='/history', real="nofollow" , target="_blank")= "History"
-			/
-			a(href='/link.md', real="nofollow" , target="_blank")= "Links "
+			if has('link.md')
+				/
+				a(href='/link.md', real="nofollow" , target="_blank")= "Links "
+			
 			/
 			a(href='/feed', real="nofollow" , target="_blank")= "RSS"
 
