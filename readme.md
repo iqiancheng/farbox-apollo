@@ -3,7 +3,7 @@ Apollo
 
 >  Simple is life.
 
-Apollo is a simple blog theme template for farbox.
+Apollo is a simple blog theme template for farbox. [demo][demo]
 
 ## Usage
 
@@ -15,5 +15,6 @@ git clone git@github.com:iqiancheng/farbox-apollo.git template
 [latest version](https://github.com/iqiancheng/farbox-apollo/releases)
 
 ## Demo
-[http://www.qiancheng.me](http://qiancheng.me)
+
+[demo]: http://qiancheng.me "千橙说"
 
