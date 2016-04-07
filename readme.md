@@ -6,6 +6,7 @@ Apollo
 Apollo is a simple blog theme template for farbox.
 
 ## Usage
+
 ```sh
 cd blog
 git clone git@github.com:iqiancheng/farbox-apollo.git template
