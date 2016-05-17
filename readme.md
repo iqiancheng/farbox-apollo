@@ -1,7 +1,7 @@
 Apollo
 ===
 
->  Simple is life.
+>  Simplicity is the ultimate sophistication. 
 
 Apollo is a simple blog theme template for farbox. [demo][demo]
 
